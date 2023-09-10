@@ -1,1 +1,4 @@
-
+.idea/
+tmp/
+moodledata/localcache/
+moodledata/cache/
